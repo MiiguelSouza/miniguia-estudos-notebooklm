@@ -5,17 +5,17 @@ O assunto escolhido como tema do meu NotebookLM foi a filosofia do Estoicismo. O
 Alguns dos Links fornecidos ao NotebookLM:
 
 Videos: 
-https://youtu.be/CjuIWXNvAus?si=FZSt8bNdwfxcWTEO
-https://youtu.be/scWI-ykd94w?si=bVVC7cROz_a1QmhB
+https://youtu.be/CjuIWXNvAus?si=FZSt8bNdwfxcWTEO <br>
+https://youtu.be/scWI-ykd94w?si=bVVC7cROz_a1QmhB <br>
 https://youtu.be/W5FXAMzyfIc?si=V_OlM7REYjBiHb2k
 
 Textos:
-https://www.todamateria.com.br/estoicismo/
-https://www.casadosaber.com.br/blog/e-possivel-praticar-o-estoicismo-hoje-livros-caminhos-e-dicas-para-praticar-a-filosofia
-https://pt.wikipedia.org/wiki/Estoicismo
-https://reflexoesestoicas.com.br/estoicismo-e-cristianismo-reflexoes-sobre-convergencias-e-distincoes/
+https://www.todamateria.com.br/estoicismo/ <br>
+https://www.casadosaber.com.br/blog/e-possivel-praticar-o-estoicismo-hoje-livros-caminhos-e-dicas-para-praticar-a-filosofia <br> 
+https://pt.wikipedia.org/wiki/Estoicismo <br>
+https://reflexoesestoicas.com.br/estoicismo-e-cristianismo-reflexoes-sobre-convergencias-e-distincoes/ <br>
 
-Alguns dos Prompts e respostas obtidas no Notebook:
+Alguns dos Prompts e respostas obtidas no Notebook: <br>
 
 1 - Me apresente uma introdução a filosofia do Estoicismo e me apresente em topicos seus pilares.
     R: " O Estoicismo é uma escola filosófica fundada em Atenas por Zenão de Cítio por volta de 300 a.C., durante o período helenístico.
