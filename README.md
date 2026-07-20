@@ -67,19 +67,19 @@ Abaixo um breve resumo do assunto abordado nesse Notebook que contribuirá para 
   desejos e ações) do que não depende (corpo, bens, reputação e eventos externos). Através da aplicação da razão, o praticante busca a apatheia (ausência de paixões perturbadoras) para atingir 
   a ataraxia (tranquilidade da alma), tornando-se resiliente diante das adversidades do destino.
 
-Glossário de Conceitos Estoicos
+<b>Glossário de Conceitos Estoicos</b> <br>
   Adiaphora (Indiferentes): Coisas que não contribuem nem para a virtude nem para o vício, como riqueza, saúde, doença ou reputação. 
-  Podem ser "preferíveis" ou "não preferíveis", mas não são essenciais para a felicidade.
+  Podem ser "preferíveis" ou "não preferíveis", mas não são essenciais para a felicidade. <br>
   Amor Fati (Amor ao Destino): Prática de aceitar e acolher todos os fatos da vida como necessários e úteis para o próprio crescimento, 
-  em vez de apenas tolerá-los.
-  Apatheia (Apatia): No sentido estoico, não é a falta de sentimentos, mas a ausência de paixões irracionais e descontroladas (como raiva ou medo excessivo) que perturbam a alma.
-  Ataraxia: Estado de tranquilidade e imperturbabilidade da mente, alcançado quando o indivíduo deixa de lutar contra a realidade e foca na sua excelência moral.
-  Dicotomia do Controle: O pilar prático que divide todas as coisas entre o que está sob nosso poder e o que está fora dele, orientando o foco total apenas para o que podemos controlar.
-  Eudaimonia: Frequentemente traduzida como felicidade ou florescimento humano; é o bem supremo resultante de uma vida vivida com virtude e razão.
-  Logos: A razão universal ou inteligência divina que permeia, ordena e governa todo o cosmos.
-  Memento Mori (Lembra-te da Morte): Exercício de manter a consciência constante sobre a finitude da vida para valorizar o tempo presente e focar no que realmente importa.
+  em vez de apenas tolerá-los. <br>
+  Apatheia (Apatia): No sentido estoico, não é a falta de sentimentos, mas a ausência de paixões irracionais e descontroladas (como raiva ou medo excessivo) que perturbam a alma. <br>
+  Ataraxia: Estado de tranquilidade e imperturbabilidade da mente, alcançado quando o indivíduo deixa de lutar contra a realidade e foca na sua excelência moral. <br>
+  Dicotomia do Controle: O pilar prático que divide todas as coisas entre o que está sob nosso poder e o que está fora dele, orientando o foco total apenas para o que podemos controlar. <br>
+  Eudaimonia: Frequentemente traduzida como felicidade ou florescimento humano; é o bem supremo resultante de uma vida vivida com virtude e razão. <br> 
+  Logos: A razão universal ou inteligência divina que permeia, ordena e governa todo o cosmos. <br>
+  Memento Mori (Lembra-te da Morte): Exercício de manter a consciência constante sobre a finitude da vida para valorizar o tempo presente e focar no que realmente importa. <br>
   Premeditatio Malorum (Premeditação dos Males): Técnica de visualizar antecipadamente possíveis desafios ou dificuldades futuras para que, se ocorrerem, o indivíduo não seja pego de 
-  surpresa e saiba reagir com serenidade.
-  Prohairesis (Proairese): A faculdade da "escolha moral" ou pré-decisão; é o que constitui a substância do ser moral humano e sua verdadeira identidade.
-  Prosochè (Atenção): Estado de vigilância e atenção plena contínua sobre si mesmo e sobre o momento presente; é a chave para todos os exercícios espirituais estoicos.
+  surpresa e saiba reagir com serenidade. <br>
+  Prohairesis (Proairese): A faculdade da "escolha moral" ou pré-decisão; é o que constitui a substância do ser moral humano e sua verdadeira identidade. <br>
+  Prosochè (Atenção): Estado de vigilância e atenção plena contínua sobre si mesmo e sobre o momento presente; é a chave para todos os exercícios espirituais estoicos. <br>
   Virtudes Cardeais: Os quatro pilares da conduta excelente: Sabedoria Prática (discernimento), Justiça (equidade), Coragem (fortaleza) e Temperança (autocontrole).
