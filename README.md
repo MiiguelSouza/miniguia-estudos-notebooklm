@@ -26,37 +26,37 @@ Alguns dos Prompts e respostas obtidas no Notebook: <br>
          Os pilares fundamentais do Estoicismo são: <br>
          - A Dicotomia do Controle: Este é o ponto de partida para a liberdade interior e consiste em distinguir entre o que está sob nosso poder 
            (nossos julgamentos, intenções, desejos e ações) e o que não está (corpo, bens, reputação, eventos externos e ações alheias). 
-           Para os estoicos, a fonte do sofrimento humano reside em tentar controlar o incontrolável e negligenciar o próprio eu.
+           Para os estoicos, a fonte do sofrimento humano reside em tentar controlar o incontrolável e negligenciar o próprio eu. <br>
          - Viver de Acordo com a Natureza: O objetivo estoico é a felicidade (eudaimonia), alcançada ao viver em conformidade com a natureza humana 
            racional e com as leis do cosmos. Isso implica alinhar a vontade individual ao Logos (razão universal), uma força divina e racional que 
-           permeia e ordena todo o universo.
+           permeia e ordena todo o universo. <br>
          - As Quatro Virtudes Cardeais: No estoicismo, a virtude é considerada o único bem real e o guia supremo para a conduta humana. Ela se manifesta 
            em quatro pilares: Sabedoria Prática (saber o que fazer em cada situação), Justiça (tratar os outros com equidade e respeito), Coragem 
-           (enfrentar medos e desafios com firmeza) e Temperança (autocontrole e moderação dos desejos).
+           (enfrentar medos e desafios com firmeza) e Temperança (autocontrole e moderação dos desejos). <br>
          - Autodomínio e Gestão das Paixões: Os estoicos não buscam a supressão total das emoções, mas a transformação das "paixões" destrutivas — como a
            raiva, o medo e a inveja — que surgem de julgamentos irracionais sobre a realidade. O objetivo é atingir a apatheia (ausência de paixões perturbadoras) 
-           e a ataraxia (tranquilidade da alma), permitindo que o indivíduo responda às circunstâncias com serenidade e razão.
+           e a ataraxia (tranquilidade da alma), permitindo que o indivíduo responda às circunstâncias com serenidade e razão. <br>
          - Cosmopolitismo: Os estoicos defendem que todos os seres humanos fazem parte de uma única comunidade universal, compartilhando a mesma razão divina. 
-           Diferenças externas como nacionalidade, classe social ou status são vistas como irrelevantes perante a irmandade da humanidade e a igualdade natural.
+           Diferenças externas como nacionalidade, classe social ou status são vistas como irrelevantes perante a irmandade da humanidade e a igualdade natural. <br>
          - Aceitação Radical (Amor Fati): Consiste em aceitar os fatos da vida como necessários e até mesmo "amá-los", em vez de apenas tolerá-los. Exercícios como 
            a Premeditatio Malorum (visualização de desafios futuros) e o Memento Mori (lembrar-se da própria finitude) ajudam o praticante a valorizar o presente e a 
-           manter a equanimidade diante da adversidade. "
-2 - Quais os principais nomes dessa filosofia? Me mostre uma citação de cada um.
+           manter a equanimidade diante da adversidade. " <br>
+2 - Quais os principais nomes dessa filosofia? Me mostre uma citação de cada um. <br>
     R: " A história do Estoicismo é dividida em três fases principais — a Antiga Estoa, a Estoa Média e a Nova Estoa (ou Estoicismo Romano) — e conta com figuras que 
-         transformaram a filosofia em um sistema prático de vida. Aqui estão os principais nomes e suas respectivas citações, conforme as fontes: 
+         transformaram a filosofia em um sistema prático de vida. Aqui estão os principais nomes e suas respectivas citações, conforme as fontes: <br>
          1. Zenão de Cítio (Fundador): Considerado o pai do estoicismo, Zenão fundou a escola por volta de 300 a.C. em Atenas, ensinando no "Pórtico Pintado" (Stoa Poikile).
-         Citação: "A felicidade é um fluxo de vida bom"
+         Citação: "A felicidade é um fluxo de vida bom" <br>
          2. Cleantes de Assos: Sucessor direto de Zenão, Cleantes é conhecido por ter introduzido conceitos de materialismo na escola e por sua obra "Hino a Zeus".
-         Citação: "O homem mau é como um cão amarrado a uma carroça e compelido a ir aonde quer que ela vá"
+         Citação: "O homem mau é como um cão amarrado a uma carroça e compelido a ir aonde quer que ela vá" <br>
          3. Crisipo de Solos: O terceiro líder da escola, Crisipo foi o grande sistematizador da doutrina estoica, escrevendo mais de 700 tratados (embora a maioria tenha se perdido).
-         Citação: Ele defendia que "a razão deve governar a vida, colocando o sábio acima das paixões".
+         Citação: Ele defendia que "a razão deve governar a vida, colocando o sábio acima das paixões". <br>
          4. Sêneca: Importante intelectual do Império Romano e conselheiro de Nero, Sêneca focou na aplicação prática da filosofia para lidar com o tempo e as emoções.
-         Citação: "Sofremos mais na imaginação do que na realidade".
+         Citação: "Sofremos mais na imaginação do que na realidade". <br>
          5. Epicteto: Nascido escravo, Epicteto tornou-se um dos mestres mais influentes ao ensinar que a liberdade reside apenas no controle da própria mente.
-         Citação: "Não são as coisas que nos perturbam, mas a opinião que temos sobre elas".
+         Citação: "Não são as coisas que nos perturbam, mas a opinião que temos sobre elas". <br>
          6. Marco Aurélio: O "Imperador Filósofo" de Roma, cujas reflexões pessoais no livro Meditações servem até hoje como um guia de autodisciplina e virtude.
          Citação: "Você tem poder sobre sua mente, não sobre os eventos externos. Perceba isso e encontrará força". Outra reflexão famosa dele é: "Não é a morte que um homem deve temer, 
-         mas sim nunca ter começado a viver". "
+         mas sim nunca ter começado a viver". " <br>
 
 
 Abaixo um breve resumo do assunto abordado nesse Notebook que contribuirá para estudos do tema:
