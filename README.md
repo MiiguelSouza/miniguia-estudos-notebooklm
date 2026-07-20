@@ -17,7 +17,7 @@ https://reflexoesestoicas.com.br/estoicismo-e-cristianismo-reflexoes-sobre-conve
 
 Alguns dos Prompts e respostas obtidas no Notebook: <br>
 
-1 - Me apresente uma introdução a filosofia do Estoicismo e me apresente em topicos seus pilares. <br>
+1 - <b>Me apresente uma introdução a filosofia do Estoicismo e me apresente em topicos seus pilares.<b> <br>
     R: " O Estoicismo é uma escola filosófica fundada em Atenas por Zenão de Cítio por volta de 300 a.C., durante o período helenístico.
          O termo deriva de Stoa Poikile (Pórtico Pintado), a colunata onde Zenão e seus seguidores se reuniam para discutir suas ideias em público. 
          Diferente de uma mera coleção de frases motivacionais, ele constitui um sistema filosófico completo que une lógica, física e ética, focado 
@@ -40,7 +40,7 @@ Alguns dos Prompts e respostas obtidas no Notebook: <br>
            Diferenças externas como nacionalidade, classe social ou status são vistas como irrelevantes perante a irmandade da humanidade e a igualdade natural. <br>
          - Aceitação Radical (Amor Fati): Consiste em aceitar os fatos da vida como necessários e até mesmo "amá-los", em vez de apenas tolerá-los. Exercícios como 
            a Premeditatio Malorum (visualização de desafios futuros) e o Memento Mori (lembrar-se da própria finitude) ajudam o praticante a valorizar o presente e a 
-           manter a equanimidade diante da adversidade. " <br>
+           manter a equanimidade diante da adversidade. " <br><br>
 2 - Quais os principais nomes dessa filosofia? Me mostre uma citação de cada um. <br>
     R: " A história do Estoicismo é dividida em três fases principais — a Antiga Estoa, a Estoa Média e a Nova Estoa (ou Estoicismo Romano) — e conta com figuras que 
          transformaram a filosofia em um sistema prático de vida. Aqui estão os principais nomes e suas respectivas citações, conforme as fontes: <br>
