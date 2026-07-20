@@ -17,7 +17,7 @@ https://reflexoesestoicas.com.br/estoicismo-e-cristianismo-reflexoes-sobre-conve
 
 Alguns dos Prompts e respostas obtidas no Notebook: <br>
 
-1 - Me apresente uma introdução a filosofia do Estoicismo e me apresente em topicos seus pilares.
+1 - Me apresente uma introdução a filosofia do Estoicismo e me apresente em topicos seus pilares. <br>
     R: " O Estoicismo é uma escola filosófica fundada em Atenas por Zenão de Cítio por volta de 300 a.C., durante o período helenístico.
          O termo deriva de Stoa Poikile (Pórtico Pintado), a colunata onde Zenão e seus seguidores se reuniam para discutir suas ideias em público. 
          Diferente de uma mera coleção de frases motivacionais, ele constitui um sistema filosófico completo que une lógica, física e ética, focado 
