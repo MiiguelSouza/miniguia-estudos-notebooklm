@@ -22,8 +22,8 @@ Alguns dos Prompts e respostas obtidas no Notebook: <br>
          O termo deriva de Stoa Poikile (Pórtico Pintado), a colunata onde Zenão e seus seguidores se reuniam para discutir suas ideias em público. 
          Diferente de uma mera coleção de frases motivacionais, ele constitui um sistema filosófico completo que une lógica, física e ética, focado 
          em ensinar o ser humano a viver em harmonia com a razão universal e a natureza. A filosofia evoluiu ao longo dos séculos, atingindo seu 
-         ápice prático com os filósofos romanos Sêneca, Epicteto e Marco Aurélio
-         Os pilares fundamentais do Estoicismo são:
+         ápice prático com os filósofos romanos Sêneca, Epicteto e Marco Aurélio. <br>
+         Os pilares fundamentais do Estoicismo são: <br>
          - A Dicotomia do Controle: Este é o ponto de partida para a liberdade interior e consiste em distinguir entre o que está sob nosso poder 
            (nossos julgamentos, intenções, desejos e ações) e o que não está (corpo, bens, reputação, eventos externos e ações alheias). 
            Para os estoicos, a fonte do sofrimento humano reside em tentar controlar o incontrolável e negligenciar o próprio eu.
