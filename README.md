@@ -41,7 +41,7 @@ Alguns dos Prompts e respostas obtidas no Notebook: <br>
          - Aceitação Radical (Amor Fati): Consiste em aceitar os fatos da vida como necessários e até mesmo "amá-los", em vez de apenas tolerá-los. Exercícios como 
            a Premeditatio Malorum (visualização de desafios futuros) e o Memento Mori (lembrar-se da própria finitude) ajudam o praticante a valorizar o presente e a 
            manter a equanimidade diante da adversidade. " <br><br>
-2 - Quais os principais nomes dessa filosofia? Me mostre uma citação de cada um. <br>
+2 - <b> Quais os principais nomes dessa filosofia? Me mostre uma citação de cada um.</b> <br>
     R: " A história do Estoicismo é dividida em três fases principais — a Antiga Estoa, a Estoa Média e a Nova Estoa (ou Estoicismo Romano) — e conta com figuras que 
          transformaram a filosofia em um sistema prático de vida. Aqui estão os principais nomes e suas respectivas citações, conforme as fontes: <br>
          1. Zenão de Cítio (Fundador): Considerado o pai do estoicismo, Zenão fundou a escola por volta de 300 a.C. em Atenas, ensinando no "Pórtico Pintado" (Stoa Poikile).
